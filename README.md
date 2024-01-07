@@ -1,3 +1,4 @@
 #### README
+### DaGhost-Writer
 
-Repository for R programming sharing
+Repository for R programming Course at the Virology Lab
